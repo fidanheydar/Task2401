@@ -85,7 +85,7 @@ namespace Task2401
 
         public static string GetSecondWord(this string str)
         {
-            if (string.IsNullOrEmpty(str))
+            if (string.IsNullOrWhiteSpace(str))
                 return str;
 
             int startIndex = str.IndexOf(' ');
