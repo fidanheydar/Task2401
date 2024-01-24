@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Task2401\Task2401\bin\Debug\net6.0\Task2401.exe
+C:\Users\HP\Desktop\Task2401\Task2401\bin\Debug\net6.0\Task2401.deps.json
+C:\Users\HP\Desktop\Task2401\Task2401\bin\Debug\net6.0\Task2401.runtimeconfig.json
+C:\Users\HP\Desktop\Task2401\Task2401\bin\Debug\net6.0\Task2401.dll
+C:\Users\HP\Desktop\Task2401\Task2401\bin\Debug\net6.0\Task2401.pdb
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\Task2401.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\Task2401.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\Task2401.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\Task2401.AssemblyInfo.cs
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\Task2401.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\Task2401.dll
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\refint\Task2401.dll
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\Task2401.pdb
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\Task2401.genruntimeconfig.cache
+C:\Users\HP\Desktop\Task2401\Task2401\obj\Debug\net6.0\ref\Task2401.dll
